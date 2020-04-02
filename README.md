@@ -5,3 +5,6 @@ Blueprint about plimt framework that bridge LaTeX and Web without any notions
 https://www.acm.org/publications/proceedings-template
 
 ### ACMSigconf
+
+## Integrate JS git 
+gitisomorphic
